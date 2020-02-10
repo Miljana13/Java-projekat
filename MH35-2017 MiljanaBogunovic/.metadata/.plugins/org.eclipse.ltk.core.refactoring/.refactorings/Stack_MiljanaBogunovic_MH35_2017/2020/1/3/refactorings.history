@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;Stack_MiljanaBogunovic&apos;&#x0D;&#x0A;- Original project: &apos;Stack_MiljanaBogunovic_MH35_2017&apos;&#x0D;&#x0A;- Destination element: &apos;Stack_MiljanaBogunovic&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     DlgRectangle.java&#x0D;&#x0A;     FrmRectangle.java" description="Copy files" destination="=Stack_MiljanaBogunovic" element1="DlgRectangle.java" element2="FrmRectangle.java" files="2" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1579263816544" units="0" version="1.0"/>
+</session>
